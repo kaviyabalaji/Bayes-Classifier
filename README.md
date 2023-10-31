@@ -45,7 +45,7 @@ print("Accuracy:",accuracy)
 ```
 
 ## Output:
-''' Output screen shots here
+![o](https://github.com/kaviyabalaji/Bayes-Classifier/blob/main/exp2.png)
 ## Result:
 Hence, Bayes classifier for iris dataset is implemented successfully
 
